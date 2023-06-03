@@ -71,3 +71,16 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Feature Aligned
+
+1.install husky and commitlint for better code commit action 
+2. install swagger for project documentation 
+3. init project 
+4. add CRUD resouce user 
+5. replace underground http server from express to fastify 
+6. add version controling related code 
+7. add global response interceptor 
+8. add BaseErrorException and HttpErrorException 
+9. add Global config service 
+10. add HMR
